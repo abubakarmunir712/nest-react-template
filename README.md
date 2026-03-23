@@ -27,6 +27,10 @@ Right now, I'm starting with these de-facto standards:
 ## 🔮 What's Next?
 In the future, I'll make it easy to swap these for things like **Zustand** or **TanStack Query**. I also plan to roll out similar templates for the **MERN** stack, **Next.js**, and **TanStack Start**.
 
+## 🤝 Contributing
+I'm currently setting up the initial contribution guide. Once the core foundation is ready, I'll be opening this up for community contributions. Check [CONTRIBUTING.md](./CONTRIBUTING.md) for updates!
+
+
 ---
 
  IMPORTANT
